@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 🚗 Previsão de Preços de Automóveis: Uma Jornada de Dados
 Bem-vindo ao meu projeto de análise e modelagem de dados para o mercado automotivo! Este repositório contém uma exploração completa — desde a limpeza dos dados até a construção de um modelo preditivo — focada em entender o que realmente define o preço de um veículo.
 
@@ -35,29 +34,3 @@ Análise de Resíduos: Um passo crucial para validar se o modelo não é tendenc
 
 📊 Resultados em Destaque
 O projeto não entrega apenas números, mas insights visuais. O gráfico de resíduos incluído ao final permite verificar a diferença entre o Preço Real e o Preço Predito, garantindo a transparência sobre a confiança do modelo.
-=======
-Análise de Dados: Indústria de Queijos Canadense
-
-📌 Sobre o Projeto
-Este projeto realiza uma Análise Exploratória de Dados (EDA) em um dataset detalhado sobre a produção de queijos no Canadá. O objetivo principal é transformar dados brutos em insights sobre características de fabricação, tratamentos de leite e tipos de casca, preparando o terreno para possíveis modelos de classificação ou estudos de mercado.
-
-A análise foca na qualidade dos dados, identificação de lacunas (missing values) e na distribuição visual das categorias de produtos.
-
-🛠️ Tecnologias e Ferramentas
-Linguagem: Python
-
-Manipulação de Dados: Pandas e Numpy
-
-Visualização: Matplotlib e Seaborn (configurados para um layout estético e profissional)
-
-📊 Estrutura da Análise
-1. Limpeza e Diagnóstico (Data Cleaning)
-Nesta etapa, identifiquei a integridade do dataset.
-
-Valores Faltantes: Realizei um levantamento percentual de dados ausentes por coluna.
-
-Insight: Notei que características sensoriais (CharacteristicsEn) e tipo de casca (RindTypeEn) possuem altos índices de ausência (acima de 30%), o que direciona a estratégia de limpeza (imputação ou remoção) para etapas futuras.
-
-2. Visualização de Dados
-Utilizei gráficos de barras estilizados com a paleta viridis para mapear visualmente onde os dados estão "silenciosos". A estética dos gráficos foi priorizada para facilitar a leitura em apresentações executivas.
->>>>>>> bca6a93 (Projeto Queijo Suiço)
